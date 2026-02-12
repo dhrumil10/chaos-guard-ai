@@ -48,7 +48,7 @@ It leverages Large Language Models (LLMs), LangGraph state machines, and GitHub/
 [![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&color=blue&logoColor=white)](https://www.docker.com)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=Datadog&logoColor=white)](https://www.datadoghq.com/)
 
 ---
@@ -75,7 +75,7 @@ Create a .env file in the root directory:
 Code snippet
 ```
 ```
-OPENAI_API_KEY=your_openai_key_here
+GOOGLE_API_KEY=your_gemini_key_here
 GITHUB_TOKEN=your_github_pat_here
 DATADOG_API_KEY=your_dd_key_here
 ```
@@ -141,6 +141,7 @@ WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AN
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
