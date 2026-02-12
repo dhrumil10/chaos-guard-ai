@@ -1,5 +1,5 @@
 # ChaosGuard AI
-**TEAM [Your Team Number] – [Your Course Number, e.g., DAMG7245]**
+
 
 **ChaosGuard AI** is an autonomous "Safe Autopilot" for CI/CD pipelines. It acts as an automated Site Reliability Engineer (SRE) that detects production failures, performs Root Cause Analysis (RCA) on Git diffs, and safely proposes remediation via Pull Requests, prioritizing immediate mitigation over risky hotfixes.
 
@@ -141,5 +141,6 @@ WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AN
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
