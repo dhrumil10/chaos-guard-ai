@@ -111,6 +111,11 @@ chaos-guard-ai/
 └── README.md           # Project documentation
 ```
 ## 🏗 Architecture Diagram
+
+
+
+![Chaos Guard AI Architecture Diagram](images/sysArchitecture.jpeg)
+
 ```
 Code snippet
 ```
@@ -141,6 +146,7 @@ WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AN
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
